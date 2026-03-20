@@ -1,0 +1,1 @@
+# Esercizio del Venerdì 20/03/26: Primi passi con le variabili
